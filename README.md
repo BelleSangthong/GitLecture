@@ -1,2 +1,1 @@
-# GitLecture
-# Belle
+# This is the latest version
